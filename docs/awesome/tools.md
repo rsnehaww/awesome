@@ -73,6 +73,7 @@
 
 * [punypng](http://www.punypng.com/)
 * [webresizer](http://webresizer.com/resizer/)
+* [Jpeg compressor](https://jpegcompress.com)
 * [TinyPNG](https://tinypng.com)
 * [smushit](http://www.smushit.com/ysmush.it/)
 * [AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
